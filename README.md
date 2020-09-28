@@ -1,0 +1,2 @@
+# fibaro-sma-power-sensor
+ 
